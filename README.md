@@ -2,6 +2,7 @@
 `git clone https://github.com/lsaffie/tmux ~/.tmux`
 
 `ln -s ~/.tmux/.tmux.conf ~/.tmux.conf`
+`ln -s ~/.tmux/tmux-shared.sh ~/tmux-shared.sh`
 
 
 Below are some of the most used commands (https://gist.github.com/lsaffie/a0f2a3830ddc4fbf7bee3505d1cf228c):
